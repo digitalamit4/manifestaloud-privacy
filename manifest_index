@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Manifest Aloud</title>
+<style>
+  body { font-family: Georgia, serif; max-width: 720px; margin: 40px auto; padding: 0 20px; color: #1a2733; line-height: 1.7; }
+  h1 { color: #042C53; font-size: 1.7em; }
+  h2 { color: #185FA5; font-size: 1.15em; margin-top: 1.8em; }
+  .updated { color: #6b7a88; font-size: 0.9em; }
+  a { color: #185FA5; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy — Manifest Aloud</h1>
+<p class="updated">Last updated: 15 June 2026</p>
+
+<p>Manifest Aloud is a private space for recording, writing, and dictating
+personal affirmations and goals. This policy explains plainly what stays on
+your device and what is shared.</p>
+
+<h2>Your recordings and writing stay on your device</h2>
+<p>Everything you create in the app is stored only on your device. Voice
+recordings are saved as audio files in the app's private storage. Written
+affirmations, dictated text, and dump entries are saved in a local database on
+your device. Names, transcripts, and settings such as loop preferences stay on
+your device.</p>
+<p>We never upload, read, access, or share the content you create. Your
+recordings and words are not sent to us or to anyone else. If you uninstall the
+app, this content is removed by your device along with it.</p>
+
+<h2>Analytics and advertising measurement</h2>
+<p>To understand how the app is used and to measure our advertising, the app
+includes two third-party tools:</p>
+<p><strong>Meta (Facebook) SDK</strong> — shares limited, content-free usage
+events with Meta, such as that the app was installed or that an entry was
+saved. <strong>Google Firebase (Analytics and Crashlytics)</strong> — records
+similar anonymous usage events and crash/diagnostic reports to help us fix
+problems and improve the app.</p>
+<p>These tools describe <em>that</em> an action happened, never <em>what you
+said or wrote</em>. They may also process standard device information (such as
+device model, app version, and an advertising or installation identifier) used
+for measurement and crash reporting. This data is handled under
+<a href="https://www.facebook.com/privacy/policy">Meta's Privacy Policy</a> and
+<a href="https://firebase.google.com/support/privacy">Google's Privacy Policy</a>.</p>
+<p>On iOS, advertising measurement only uses the advertising identifier if you
+allow tracking when the system asks; you can decline, and the app works fully
+either way.</p>
+
+<h2>Microphone</h2>
+<p>The app uses your microphone only while you are actively recording a voice
+affirmation or using Dictate. Microphone audio is used only for these features
+on your device. We do not stream, store remotely, or send your microphone audio
+anywhere.</p>
+
+<h2>Speech recognition</h2>
+<p>The Dictate feature converts speech to text using your device's built-in
+speech recognition, handled by your device's operating system. Depending on
+your device and settings, your OS provider (for example, Google or Apple) may
+process speech audio to perform recognition, under their own privacy policies.
+The app itself does not collect or retain this audio.</p>
+
+<h2>What we do not do</h2>
+<p>No account or login. We do not read or analyze the content you create. We do
+not sell your personal data. We collect no data beyond the anonymous usage,
+measurement, and crash events described above.</p>
+
+<h2>Permissions</h2>
+<p>The app requests microphone permission for recording and dictation. You can
+grant or deny it in your device settings at any time; if denied, recording and
+dictation will not work, but the rest of the app continues to function.</p>
+
+<h2>Children</h2>
+<p>The app is not directed at children and does not knowingly collect
+information from children.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, the updated version will be posted here with a new
+"last updated" date.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy: <strong>[your-email@example.com]</strong></p>
+
+</body>
+</html>
